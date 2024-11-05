@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Mon Nov  4 16:01:35 2024
+# Process ID: 5876
+# Current directory: C:/altera/13.1/MSIB/vivado/projectFPGA/projectFPGA.runs/synth_1
+# Command line: vivado.exe -log zynq_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source zynq_wrapper.tcl
+# Log file: C:/altera/13.1/MSIB/vivado/projectFPGA/projectFPGA.runs/synth_1/zynq_wrapper.vds
+# Journal file: C:/altera/13.1/MSIB/vivado/projectFPGA/projectFPGA.runs/synth_1\vivado.jou
+# Running On        :DESKTOP-HTVV1N1
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+# CPU Frequency     :2496 MHz
+# CPU Physical cores:2
+# CPU Logical cores :4
+# Host memory       :8421 MB
+# Swap memory       :10485 MB
+# Total Virtual     :18907 MB
+# Available Virtual :5534 MB
+#-----------------------------------------------------------
+source zynq_wrapper.tcl -notrace

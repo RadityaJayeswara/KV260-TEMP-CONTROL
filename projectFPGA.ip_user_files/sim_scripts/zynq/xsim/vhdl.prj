@@ -1,0 +1,8 @@
+vhdl xil_defaultlib  \
+"../../../bd/zynq/ip/zynq_proc_sys_reset_0_1/sim/zynq_proc_sys_reset_0_1.vhd" \
+"../../../bd/zynq/ip/zynq_proc_sys_reset_1_0/sim/zynq_proc_sys_reset_1_0.vhd" \
+"../../../bd/zynq/ip/zynq_proc_sys_reset_2_0/sim/zynq_proc_sys_reset_2_0.vhd" \
+"../../../bd/zynq/ip/zynq_axi_intc_0_0/sim/zynq_axi_intc_0_0.vhd" \
+
+# Do not sort compile order
+nosort
